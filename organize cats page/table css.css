@@ -1,0 +1,10 @@
+#main_table {
+    margin: auto;
+    width: 75%;
+    text-align: center;
+}
+
+#main_table th {
+    font-size: 30px;
+    width: 50%;
+}
